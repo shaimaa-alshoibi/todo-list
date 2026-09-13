@@ -5,7 +5,7 @@ A simple and responsive **To-Do List web application** built with HTML, CSS, and
 ## 📸 Preview
 
 <p align="center">
-  <img src="C:\Users\shaim\Desktop\شيماء\مشاريعي\toDoList" alt="To-Do List Preview" width="700">
+  <img src="./Screenshot 2026-09-13 205132.png" alt="To-Do List Preview" width="700">
 </p>
 
 ## ✨ Features
