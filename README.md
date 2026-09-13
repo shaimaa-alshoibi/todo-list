@@ -44,6 +44,4 @@ todo-list/
 
 This project was created to practice **HTML, CSS, and JavaScript**, especially DOM manipulation and building interactive web pages.
 
-## 👩‍💻 Author
 
-**Shaimaa**
